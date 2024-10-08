@@ -129,15 +129,18 @@ Graph-structured data is ubiquitous in real-world applications (e.g., social net
 * **[Yinan Wang](https://yinanw-rpi.com/)** is an Assistant Professor in the Department of Industrial and Systems Engineering at Rensselaer Polytechnic Institute. He received the B.S. degree in Electrical Engineering and Automation from Xi'an Jiaotong University in 2017, the M.S. in Electrical Engineering from Columbia University in 2019, and the Ph.D. in industrial and Systems Engineering from Virginia Tech in 2022. His research interests include data analytics and machine learning techniques in quality control of advanced manufacturing systems. He is the recipient of FTC Early Career Award, 10 Best Paper/Poster/Featured Article Awards, and two Best Ph.D. Dissertation Awards. He was the Mary and Joseph Natrella Scholar from ASA. He was co-organizer for the Symposium and Workshop in Manufacturing Science and Engineering Conference (MSEC) 2023 and SIAM International Conference on Data Mining (SDM) 2023. He serves as an active Board Director in IISE Data Analytics and Information Systems (DAIS) division. 
 
 ## Previous workshop
-* DS2-MH Workshop at [SDM](https://sdm23wsmh.github.io/)
+* DS2-MH Workshop at [SDM23](https://sdm23wsmh.github.io/)
+* DS2-MH Workshop at [SDM24](https://ds2mh.github.io/dssmh24/)
 
+<!---
 ## Web Chair of this workshop
 [Liangliang Zhang](https://liangliang6v6.github.io/), PhD student, Rensselaer Polytechnic Institute.
 
 ## Venue
 This workshop will be held in conjunction with SIAM International Conference on Data Mining (SDM24) on April 18 - 20, 2024, Houston, TX, USA. The detailed schedule of this workshop will be released soon. More information about the conference and workshop can be found [here](https://www.siam.org/conferences/cm/conference/sdm24).
+-->
 
-For questions regarding this workshop, please contact us at: **[chenang.liu@okstate.edu](https://stars-laboratory.github.io/)**
+For questions regarding this workshop, please contact us at: **[wangy88@rpi.edu](https://yinanw-rpi.com/)**
 
 <!---
 ## Gallery
