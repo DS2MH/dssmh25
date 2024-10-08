@@ -57,6 +57,7 @@ This workshop aims to demonstrate the recent research progress of data science, 
 * Root cause diagnosis
 * Sustainable manufacturing 
 
+<!---
 ## Keynote Speakers
 
 * **Title: Automatic Anomaly Detection at Supercomputing Scale**
@@ -88,7 +89,7 @@ Graph-structured data is ubiquitous in real-world applications (e.g., social net
 
 **Biography:**
 **[Yu Wang](https://yuwvandy.github.io/)** is a final-year Ph.D. candidate in Computer Science at Vanderbilt University and will join University of Oregon as a Tenure-track Assistant Professor at this coming Fall. His main research focuses on Data-centric Graph Machine Learning and Data-quality Aware Graph Neural Networks with applications in Information Retrieval, Infrastructure Networks and Chemistry. He has published 14+ papers in top conferences (e.g., ICLR, AAAI, WWW, KDD) and regularly serves as PC member/reviewer for international conferences and journals in machine learning and data mining, such as KDD, ICML, AAAI, WWW, WSDM. In addition, he has received numerous awards including two Best Paper Awards at Frontiers of Graph Learning Workshop at NeurIPS 2023 and the 2020 Smokey Mountain Data Challenge Competition by ORNL, Vanderbilt’s C. F. Chen Best Paper Award in 2022 as first-author (and Runner-Up Award in 2023 as co-author), had his work selected in top-10 Most Influential Papers at WWW 2023 and CIKM 2022 by Paper Digest, and was the sole recipient of Vanderbilt’s Graduate Leadership Anchor Award for Research in 2023.
-
+-->
 
 ## Tentative Workshop Agenda
 ##### Morning Session
