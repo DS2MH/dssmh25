@@ -127,6 +127,7 @@ This workshop will be held in conjunction with SIAM International Conference on 
 
 For questions regarding this workshop, please contact us at: **[chenang.liu@okstate.edu](https://stars-laboratory.github.io/)**
 
+<!---
 ## Gallery
 <p align="center">
   <img src="img/fig1.png" width="400">
@@ -142,3 +143,4 @@ For questions regarding this workshop, please contact us at: **[chenang.liu@okst
   <img src="img/fig3.png" width="400">
   <p>Fig. 3 Data Science for Smart Manufacturing and Healthcare Workshop Group Picture</p>
 </p>
+-->
