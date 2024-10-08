@@ -4,6 +4,18 @@ permalink: /
 layout: default
 ---
 
+## Full Contact Information of Organizers
+* **[Jihoon Chung](https://cjh7.github.io/)**, Assistant Professor, Pusan National University in Korea, jhchung7@pusan.ac.kr
+
+* **[Chenang Liu](https://stars-laboratory.github.io/)**, Assistant Professor, Oklahoma State University, chenang.liu@okstate.edu
+
+* **[Yao Ma](https://yaoma24.github.io/)** Assistant Professor, Rensselaer Polytechnic Institute, may13@rpi.edu
+
+* **[Diane Oyen](https://public.lanl.gov/doyen/)**, Scientist and Team Leader of Machine Learning, Los Alamos National Laboratory, doyen@lanl.gov
+
+* **[Yinan Wang](https://yinanw-rpi.com/)** Assistant Professor, Rensselaer Polytechnic Institute, wangy88@rpi.edu
+
+
 ## Workshop Desciption
 
 In the era of the Internet of Things (IoT), with the rapid development of advanced sensing, data storage, data analytics, and high-performance computing technologies, both manufacturing industries and healthcare systems are experiencing a data‑driven revolution. However, the unique characteristics of manufacturing and healthcare systems prevent the direct application of existing data-driven methods. Their characteristics include (1) systematic physical principles, (2) high demand for interpretability, robustness, and trustworthiness, and (3) limited computation resources and the need for instant decision-making. These characteristics raised pressing needs to develop domain-aware data-driven approaches for critical tasks in manufacturing and healthcare systems, such as smart diagnosis, automatic control, design optimization, customized analytics, etc.
