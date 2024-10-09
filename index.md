@@ -68,7 +68,7 @@ This workshop is expected to be a full-day event with two half-day sessions, spl
 * 10:50 - 11:25 Keynote presentation 1
 * 11:25 – 11:45 Contributing paper presentation 3
 
-##### Lunch Break (12:00 – 13:20)
+##### Lunch Break
 ##### Afternoon Session
 * 13:30 - 13:50 Contributing paper presentation 4
 * 13:50 - 14:10 Contributing paper presentation 5
@@ -76,9 +76,34 @@ This workshop is expected to be a full-day event with two half-day sessions, spl
 * 14:45 – 15:20 Keynote presentation 3
 * 15:20 - 15:25 Closing Remarks
 
-*\*The schedule may subject to change according to the SDM conference schedule.*
+*\*The schedule may be subject to change according to the SDM conference schedule.*
 
 ## Description of Target Audience
+This workshop is expected to invite leading researchers in the domain of data mining, machine learning, advanced manufacturing, and healthcare systems. The target audience will be program officers from funding agencies, industries, researchers who are interested in data science and its applications, and undergraduate/graduate students in the general engineering discipline who plan to pursue a career related to data science. The list of tentative participants is given as follows.
+
+*	Michael Biehler, Georgia Tech 
+*	Hongliang Chi, New Jersey Institute of Technology
+*	Xiaoyu Chen, University at Buffalo
+*	Enyan Dai, Penn State University
+*	Tyler Derr, Vanderbilt University
+*	Jiayuan Ding, Michigan State University
+*	Wenning Feng, Goldman Sach
+*	Wei Jin, Emory University
+*	Vanessa Job, University of New Mexico
+*	Chen Kan, University of Texas at Arlington
+*	Andrew Law, IoTeX 
+*	Jia Liu, Auburn University
+*	Xiaorui Liu, North Carolina State University
+*	Jennifer Pazour, Rensselaer Polytechnic Institute
+*	Harry Shomer, Michigan State University
+*	Wenbo Sun, University of Michigan
+*	Wenmeng Tian, Mississippi State University
+*	Selma Wanna, University of Texas at Austin
+*	Yu Wang, Vanderbilt University
+*	Qiong Wu, AT&T
+*	Xiaowei Yue, Tsinghua University
+*	Jie Zhang, Nielsen
+*	Tong Zhao, Snap Inc. 
 
 ## Important Dates (Central Time)
 * Travel Award Application: Jan. 30, 2025; [link](https://www.siam.org/conferences-events/conference-support/travel-and-registration-support/)
