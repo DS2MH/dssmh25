@@ -10,9 +10,9 @@ layout: default
 * **[Chenang Liu](https://stars-laboratory.github.io/)**, Assistant Professor, Oklahoma State University, [chenang.liu@okstate.edu](mailto:chenang.liu@okstate.edu)
 
 * **[Yao Ma](https://yaoma24.github.io/)** Assistant Professor, Rensselaer Polytechnic Institute, [may13@rpi.edu](mailto:may13@rpi.edu)
-
+<!---
 * **[Diane Oyen](https://public.lanl.gov/doyen/)**, Scientist and Team Leader of Machine Learning, Los Alamos National Laboratory, [doyen@lanl.gov](mailto:doyen@lanl.gov)
-
+-->
 * **[Yinan Wang](https://yinanw-rpi.com/)** Assistant Professor, Rensselaer Polytechnic Institute, [wangy88@rpi.edu](mailto:wangy88@rpi.edu)
 
 
@@ -117,9 +117,9 @@ This workshop is expected to invite leading researchers in the domain of data mi
 * **[Jihoon Chung](https://cjh7.github.io/)** is an Assistant Professor in the Department of Industrial Engineering at Pusan National University in Korea. I received a Ph.D. in Industrial and Systems Engineering at Virginia Polytechnic Institute and State University (Virginia Tech) (May 2023). He also obtained M.S. and B.S. degrees in Industrial Engineering at the Korea Advanced Institute of Science and Technology (KAIST) and Hanyang University, respectively. His research area is developing data-driven methods, including artificial intelligence, machine learning, and statistical learning, to achieve quality assurance in advanced manufacturing processes and solve various problems in healthcare systems and material analysis.
 
 * **[Yao Ma](https://yaoma24.github.io/)** is an Assistant Professor in the Department of Computer Science at the Rensselaer Polytechnic Institute (RPI). He received his Ph.D. in Computer Science from Michigan State University (MSU) in 2021, with a focus on machine learning with graph-structured data. His research contributions to this area have led to numerous innovative works presented at top-tier conferences such as KDD, WWW, WSDM, ICLR, NeurIPS, and ICML. He has also organized and presented several well-received tutorials at AAAI and KDD, attracting over 1000 attendees. He is the author of the book "Deep Learning on Graphs", which has been downloaded tens of thousands of times from over 100 countries. He was awarded the Outstanding Graduate Student Award (2019-2020) from the College of Engineering at MSU.
-
+<!---
 * **[Diane Oyen](https://public.lanl.gov/doyen/)**, Scientist and Team Leader of Machine Learning, Los Alamos National Laboratory. She received her Ph.D. in Computer Science at the University of New Mexico and her B.S. in Electrical Engineering from Carnegie Mellon. She joined Los Alamos National Laboratory in 2013, leading projects on trustworthy machine learning and on computer vision for scientific imagery, involving over a dozen research scientists plus postdocs and students. Her research focuses on developing data science approaches for scientific and national security applications; particularly through the use of graph-based machine learning to understand complex patterns in data. She has organized workshops at top-tier computer vision and machine learning conferences including SDM, CVPR, ECCV, and NeurIPS.
-
+-->
 * **[Yinan Wang](https://yinanw-rpi.com/)** is an Assistant Professor in the Department of Industrial and Systems Engineering at Rensselaer Polytechnic Institute. He received the B.S. degree in Electrical Engineering and Automation from Xi'an Jiaotong University in 2017, the M.S. in Electrical Engineering from Columbia University in 2019, and the Ph.D. in industrial and Systems Engineering from Virginia Tech in 2022. His research interests include data analytics and machine learning techniques in quality control of advanced manufacturing systems. He is the recipient of FTC Early Career Award, 10 Best Paper/Poster/Featured Article Awards, and two Best Ph.D. Dissertation Awards. He was the Mary and Joseph Natrella Scholar from ASA. He was co-organizer for the Symposium and Workshop in Manufacturing Science and Engineering Conference (MSEC) 2023 and SIAM International Conference on Data Mining (SDM) 2023. He serves as an active Board Director in IISE Data Analytics and Information Systems (DAIS) division. 
 
 ## Previous workshop
