@@ -105,7 +105,7 @@ This workshop is expected to invite leading researchers in the domain of data mi
 *	Jie Zhang, Nielsen
 *	Tong Zhao, Snap Inc. 
 
-## Important Dates (Central Time)
+## Important Dates
 * Travel Award Application: Jan. 30, 2025; [link](https://www.siam.org/conferences-events/conference-support/travel-and-registration-support/)
 * Paper Submission: Feb. 26, 2025; Link to be released
 * Acceptance Notification: March 10, 2025
