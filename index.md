@@ -5,7 +5,7 @@ layout: default
 ---
 
 ## Full Contact Information of Organizers
-* **[Jihoon Chung](https://cjh7.github.io/)**, Assistant Professor, Pusan National University in Korea, [jhchung@pusan.ac.kr](mailto:jhchung7@pusan.ac.kr)
+* **[Jihoon Chung](https://cjh7.github.io/)**, Assistant Professor, Pusan National University, Korea, [jhchung@pusan.ac.kr](mailto:jhchung7@pusan.ac.kr)
 
 * **[Chenang Liu](https://stars-laboratory.github.io/)**, Assistant Professor, Oklahoma State University, [chenang.liu@okstate.edu](mailto:chenang.liu@okstate.edu)
 
