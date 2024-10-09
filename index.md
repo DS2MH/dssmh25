@@ -16,11 +16,11 @@ layout: default
 * **[Yinan Wang](https://yinanw-rpi.com/)** Assistant Professor, Rensselaer Polytechnic Institute, [wangy88@rpi.edu](mailto:wangy88@rpi.edu)
 
 
-## Workshop Desciption
+## Workshop Description
 
 In the era of the Internet of Things (IoT), with the rapid development of advanced sensing, data storage, data analytics, and high-performance computing technologies, both manufacturing industries and healthcare systems are experiencing a data‑driven revolution. However, the unique characteristics of manufacturing and healthcare systems prevent the direct application of existing data-driven methods. Their characteristics include (1) systematic physical principles, (2) high demand for interpretability, robustness, and trustworthiness, and (3) limited computation resources and the need for instant decision-making. These characteristics raised pressing needs to develop domain-aware data-driven approaches for critical tasks in manufacturing and healthcare systems, such as smart diagnosis, automatic control, design optimization, customized analytics, etc.
 
-This workshop aims to demonstrate the recent research progress of data science, which focuses on addressing the unique challenges in manufacturing and healthcare systems, such as the gaps in data quality/security assurance, domain-aware data analytics, improvement of trustworthiness, etc. We cordially invite submissions that focus on recent advances in research/development of data science, which are motivated by real-world problems in manufacturing and healthcare. Papers and/or posters focus on both theoretical foundations and applications are welcomed from the areas including but not limited to:
+This workshop aims to demonstrate the recent progress of data science research, which focuses on addressing the unique challenges in manufacturing and healthcare systems, such as the gaps in data quality/security assurance, domain-aware data analytics, improvement of trustworthiness, etc. We cordially invite submissions that focus on recent advances in research/development of data science, which are motivated by real-world problems in manufacturing and healthcare. Papers and/or posters focus on both theoretical foundations and applications are welcomed from the areas including but not limited to:
 
 ## Topics of Interest
 ### *Methodology*
@@ -57,6 +57,52 @@ This workshop aims to demonstrate the recent research progress of data science, 
 * Root cause diagnosis
 * Sustainable manufacturing 
 
+## Description of the Workshop: 
+This workshop is expected to be a full-day event with two half-day sessions, split by a lunch break. The format of this workshop will include invited keynote presentations and accepted presentations from submitted papers. The tentative workshop agenda is shown as follows.
+
+### Tentative Workshop Agenda
+##### Morning Session
+* 10:00 – 10:10 Welcome and Opening Remarks
+* 10:10 – 10:30 Contributing paper presentation 1
+* 10:30 – 10:50 Contributing paper presentation 2
+* 10:50 - 11:25 Keynote presentation 1
+* 11:25 – 11:45 Contributing paper presentation 3
+
+##### Lunch Break (12:00 – 13:20)
+##### Afternoon Session
+* 13:30 - 13:50 Contributing paper presentation 4
+* 13:50 - 14:10 Contributing paper presentation 5
+* 14:10 - 14:45 Keynote presentation 2
+* 14:45 – 15:20 Keynote presentation 3
+* 15:20 - 15:25 Closing Remarks
+
+*\*The schedule may subject to change according to the SDM conference schedule.*
+
+## Description of Target Audience
+
+## Important Dates (Central Time)
+* Travel Award Application: Jan. 30, 2025; [link](https://www.siam.org/conferences-events/conference-support/travel-and-registration-support/)
+* Paper Submission: Feb. 26, 2025; Link to be released
+* Acceptance Notification: March 10, 2025
+* Final Paper Submission: April 1, 2025
+
+## Biography of the organizers:
+* **[Chenang Liu](https://stars-laboratory.github.io/)** is an Assistant Professor in the School of Industrial Engineering and Management at Oklahoma State University. He earned his Ph.D. degree in Industrial and Systems Engineering from Virginia Tech in 2019. He also received his master’s degree in Statistics from Virginia Tech in 2017 and double bachelor's degrees from Zhejiang University in 2014. His research interests include data-driven analytics, process quality monitoring and control methodologies, and artificial intelligence-enabled techniques for smart manufacturing and healthcare applications. His research contributions were recognized by multiple best paper/poster awards. His ongoing research projects are also funded by the federal agencies including NIH and NSF, as well as the Oklahoma Center for the Advancement of Science and Technology (OCAST). He is an associate editor of the Journal of Intelligent Manufacturing (JIM), a guest editor of the ASME Journal of Computing and Information Science in Engineering (JCISE), and an executive guest editor of the Journal of Manufacturing Systems (JMS). He was the organizer of 2022 IISE South Central Regional Conference, and he also served as the co-chair of the Data Analytics and Information Systems (DAIS) track in 2023 IISE Annual Conference.
+
+* **[Jihoon Chung](https://cjh7.github.io/)** is an Assistant Professor in the Department of Industrial Engineering at Pusan National University in Korea. I received a Ph.D. in Industrial and Systems Engineering at Virginia Polytechnic Institute and State University (Virginia Tech) (May 2023). He also obtained M.S. and B.S. degrees in Industrial Engineering at the Korea Advanced Institute of Science and Technology (KAIST) and Hanyang University, respectively. His research area is developing data-driven methods, including artificial intelligence, machine learning, and statistical learning, to achieve quality assurance in advanced manufacturing processes and solve various problems in healthcare systems and material analysis.
+
+* **[Yao Ma](https://yaoma24.github.io/)** is an Assistant Professor in the Department of Computer Science at the Rensselaer Polytechnic Institute (RPI). He received his Ph.D. in Computer Science from Michigan State University (MSU) in 2021, with a focus on machine learning with graph-structured data. His research contributions to this area have led to numerous innovative works presented at top-tier conferences such as KDD, WWW, WSDM, ICLR, NeurIPS, and ICML. He has also organized and presented several well-received tutorials at AAAI and KDD, attracting over 1000 attendees. He is the author of the book "Deep Learning on Graphs", which has been downloaded tens of thousands of times from over 100 countries. He was awarded the Outstanding Graduate Student Award (2019-2020) from the College of Engineering at MSU.
+
+* **[Diane Oyen](https://public.lanl.gov/doyen/)**, Scientist and Team Leader of Machine Learning, Los Alamos National Laboratory. She received her Ph.D. in Computer Science at the University of New Mexico and her B.S. in Electrical Engineering from Carnegie Mellon. She joined Los Alamos National Laboratory in 2013, leading projects on trustworthy machine learning and on computer vision for scientific imagery, involving over a dozen research scientists plus postdocs and students. Her research focuses on developing data science approaches for scientific and national security applications; particularly through the use of graph-based machine learning to understand complex patterns in data. She has organized workshops at top-tier computer vision and machine learning conferences including SDM, CVPR, ECCV, and NeurIPS.
+
+* **[Yinan Wang](https://yinanw-rpi.com/)** is an Assistant Professor in the Department of Industrial and Systems Engineering at Rensselaer Polytechnic Institute. He received the B.S. degree in Electrical Engineering and Automation from Xi'an Jiaotong University in 2017, the M.S. in Electrical Engineering from Columbia University in 2019, and the Ph.D. in industrial and Systems Engineering from Virginia Tech in 2022. His research interests include data analytics and machine learning techniques in quality control of advanced manufacturing systems. He is the recipient of FTC Early Career Award, 10 Best Paper/Poster/Featured Article Awards, and two Best Ph.D. Dissertation Awards. He was the Mary and Joseph Natrella Scholar from ASA. He was co-organizer for the Symposium and Workshop in Manufacturing Science and Engineering Conference (MSEC) 2023 and SIAM International Conference on Data Mining (SDM) 2023. He serves as an active Board Director in IISE Data Analytics and Information Systems (DAIS) division. 
+
+## Previous workshop
+* DS2-MH Workshop at [SDM23](https://sdm23wsmh.github.io/)
+* DS2-MH Workshop at [SDM24](https://ds2mh.github.io/dssmh24/)
+
+For questions regarding this workshop, please contact us at: **[wangy88@rpi.edu](mailto:wangy88@rpi.edu)**
+
 <!---
 ## Keynote Speakers
 
@@ -89,61 +135,13 @@ Graph-structured data is ubiquitous in real-world applications (e.g., social net
 
 **Biography:**
 **[Yu Wang](https://yuwvandy.github.io/)** is a final-year Ph.D. candidate in Computer Science at Vanderbilt University and will join University of Oregon as a Tenure-track Assistant Professor at this coming Fall. His main research focuses on Data-centric Graph Machine Learning and Data-quality Aware Graph Neural Networks with applications in Information Retrieval, Infrastructure Networks and Chemistry. He has published 14+ papers in top conferences (e.g., ICLR, AAAI, WWW, KDD) and regularly serves as PC member/reviewer for international conferences and journals in machine learning and data mining, such as KDD, ICML, AAAI, WWW, WSDM. In addition, he has received numerous awards including two Best Paper Awards at Frontiers of Graph Learning Workshop at NeurIPS 2023 and the 2020 Smokey Mountain Data Challenge Competition by ORNL, Vanderbilt’s C. F. Chen Best Paper Award in 2022 as first-author (and Runner-Up Award in 2023 as co-author), had his work selected in top-10 Most Influential Papers at WWW 2023 and CIKM 2022 by Paper Digest, and was the sole recipient of Vanderbilt’s Graduate Leadership Anchor Award for Research in 2023.
--->
 
-## Tentative Workshop Agenda
-##### Morning Session
-* 10:00 – 10:10 Welcome and Opening Remarks
-* 10:10 – 10:30 Contributing paper presentation 1
-* 10:30 – 10:50 Contributing paper presentation 2
-* 10:50 - 11:25 Keynote presentation 1
-* 11:25 – 11:45 Contributing paper presentation 3
-
-##### Lunch Break (12:00 – 13:20)
-##### Afternoon Session
-* 13:30 - 13:50 Contributing paper presentation 4
-* 13:50 - 14:10 Contributing paper presentation 5
-* 14:10 - 14:45 Keynote presentation 2
-* 14:45 – 15:20 Keynote presentation 3
-* 15:20 - 15:25 Closing Remarks
-
-*\*The schedule may subject to change according to the SDM conference schedule.*
-
-## Length of the Workshop: 
-This workshop is expected to be a full-day event with two half-day sessions, split by a lunch break.
-
-## Important Dates (Central Time)
-* Travel Award Application: Jan. 30, 2025; [link](https://www.siam.org/conferences-events/conference-support/travel-and-registration-support/)
-* Paper Submission: Feb. 26, 2025; Link to be released
-* Acceptance Notification: March 10, 2025
-* Final Paper Submission: April 1, 2025
-
-## Biography of the organizers:
-* **[Chenang Liu](https://stars-laboratory.github.io/)** is an Assistant Professor in the School of Industrial Engineering and Management at Oklahoma State University. He earned his Ph.D. degree in Industrial and Systems Engineering from Virginia Tech in 2019. He also received his master’s degree in Statistics from Virginia Tech in 2017 and double bachelor's degrees from Zhejiang University in 2014. His research interests include data-driven analytics, process quality monitoring and control methodologies, and artificial intelligence-enabled techniques for smart manufacturing and healthcare applications. His research contributions were recognized by multiple best paper/poster awards. His ongoing research projects are also funded by the federal agencies including NIH and NSF, as well as the Oklahoma Center for the Advancement of Science and Technology (OCAST). He is an associate editor of the Journal of Intelligent Manufacturing (JIM), a guest editor of the ASME Journal of Computing and Information Science in Engineering (JCISE), and an executive guest editor of the Journal of Manufacturing Systems (JMS). He was the organizer of 2022 IISE South Central Regional Conference, and he also served as the co-chair of the Data Analytics and Information Systems (DAIS) track in 2023 IISE Annual Conference.
-
-* **[Jihoon Chung](https://cjh7.github.io/)** is an Assistant Professor in the Department of Industrial Engineering at Pusan National University in Korea. I received a Ph.D. in Industrial and Systems Engineering at Virginia Polytechnic Institute and State University (Virginia Tech) (May 2023). He also obtained M.S. and B.S. degrees in Industrial Engineering at the Korea Advanced Institute of Science and Technology (KAIST) and Hanyang University, respectively. His research area is developing data-driven methods, including artificial intelligence, machine learning, and statistical learning, to achieve quality assurance in advanced manufacturing processes and solve various problems in healthcare systems and material analysis.
-
-* **[Yao Ma](https://yaoma24.github.io/)** is an Assistant Professor in the Department of Computer Science at the Rensselaer Polytechnic Institute (RPI). He received his Ph.D. in Computer Science from Michigan State University (MSU) in 2021, with a focus on machine learning with graph-structured data. His research contributions to this area have led to numerous innovative works presented at top-tier conferences such as KDD, WWW, WSDM, ICLR, NeurIPS, and ICML. He has also organized and presented several well-received tutorials at AAAI and KDD, attracting over 1000 attendees. He is the author of the book "Deep Learning on Graphs", which has been downloaded tens of thousands of times from over 100 countries. He was awarded the Outstanding Graduate Student Award (2019-2020) from the College of Engineering at MSU.
-
-* **[Diane Oyen](https://public.lanl.gov/doyen/)**, Scientist and Team Leader of Machine Learning, Los Alamos National Laboratory. She received her Ph.D. in Computer Science at the University of New Mexico and her B.S. in Electrical Engineering from Carnegie Mellon. She joined Los Alamos National Laboratory in 2013, leading projects on trustworthy machine learning and on computer vision for scientific imagery, involving over a dozen research scientists plus postdocs and students. Her research focuses on developing data science approaches for scientific and national security applications; particularly through the use of graph-based machine learning to understand complex patterns in data. She has organized workshops at top-tier computer vision and machine learning conferences including SDM, CVPR, ECCV, and NeurIPS.
-
-* **[Yinan Wang](https://yinanw-rpi.com/)** is an Assistant Professor in the Department of Industrial and Systems Engineering at Rensselaer Polytechnic Institute. He received the B.S. degree in Electrical Engineering and Automation from Xi'an Jiaotong University in 2017, the M.S. in Electrical Engineering from Columbia University in 2019, and the Ph.D. in industrial and Systems Engineering from Virginia Tech in 2022. His research interests include data analytics and machine learning techniques in quality control of advanced manufacturing systems. He is the recipient of FTC Early Career Award, 10 Best Paper/Poster/Featured Article Awards, and two Best Ph.D. Dissertation Awards. He was the Mary and Joseph Natrella Scholar from ASA. He was co-organizer for the Symposium and Workshop in Manufacturing Science and Engineering Conference (MSEC) 2023 and SIAM International Conference on Data Mining (SDM) 2023. He serves as an active Board Director in IISE Data Analytics and Information Systems (DAIS) division. 
-
-## Previous workshop
-* DS2-MH Workshop at [SDM23](https://sdm23wsmh.github.io/)
-* DS2-MH Workshop at [SDM24](https://ds2mh.github.io/dssmh24/)
-
-<!---
 ## Web Chair of this workshop
 [Liangliang Zhang](https://liangliang6v6.github.io/), PhD student, Rensselaer Polytechnic Institute.
 
 ## Venue
 This workshop will be held in conjunction with SIAM International Conference on Data Mining (SDM24) on April 18 - 20, 2024, Houston, TX, USA. The detailed schedule of this workshop will be released soon. More information about the conference and workshop can be found [here](https://www.siam.org/conferences/cm/conference/sdm24).
--->
 
-For questions regarding this workshop, please contact us at: **[wangy88@rpi.edu](mailto:wangy88@rpi.edu)**
-
-<!---
 ## Gallery
 <p align="center">
   <img src="img/fig1.png" width="400">
