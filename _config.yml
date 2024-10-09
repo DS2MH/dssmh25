@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
-title: [Data Science for Smart Manufacturing and Healthcare Workshop]
-description: [DS2-MH Workshop at <a href="https://www.siam.org/conferences-events/siam-conferences/sdm25/">SDM25</a> on May 1 2025 at Alexandria Virginia]
+title: Data Science for Smart Manufacturing and Healthcare Workshop
+description: DS2-MH Workshop at <a href="https://www.siam.org/conferences-events/siam-conferences/sdm25/">SDM25</a> on May 1 2025 at Alexandria Virginia
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
