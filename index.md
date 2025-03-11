@@ -107,9 +107,9 @@ This workshop is expected to invite leading researchers in the domain of data mi
 
 ## Important Dates
 * Travel Award Application: Jan. 30, 2025; [link](https://www.siam.org/conferences-events/conference-support/travel-and-registration-support/)
-* Paper Submission: Feb. 26, 2025; Link to be released
-* Acceptance Notification: March 10, 2025
-* Final Paper Submission: April 1, 2025
+* Paper Submission: March 21, 2025; Link to be released
+* Acceptance Notification: March 28, 2025
+* Final Paper Submission: April 6, 2025
 
 ## Biography of the organizers:
 * **[Jihoon Chung](https://cjh7.github.io/)** is an Assistant Professor in the Department of Industrial Engineering at Pusan National University in Korea. He received his Ph.D. degree in Industrial and Systems Engineering at Virginia Polytechnic Institute and State University (Virginia Tech) (May 2023). He also obtained M.S. and B.S. degrees in Industrial Engineering at the Korea Advanced Institute of Science and Technology (KAIST) and Hanyang University, respectively. His research area is developing data-driven methods, including artificial intelligence, machine learning, and statistical learning, to achieve quality assurance in advanced manufacturing processes and solve various problems in healthcare systems and material analysis. His  research was recognized as several best paper/poster awards in IISE Quality Control & Reliability Engineering division and INFORMS Quality, Statistics, and Reliability section. 
