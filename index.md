@@ -107,7 +107,7 @@ This workshop is expected to invite leading researchers in the domain of data mi
 
 ## Important Dates
 * Travel Award Application: Jan. 30, 2025; [link](https://www.siam.org/conferences-events/conference-support/travel-and-registration-support/)
-* Paper Submission: March 21, 2025; Link to be released
+* Paper Submission: March 21, 2025; [Link](https://easychair.org/conferences/?conf=ds2mhatsdm25)
 * Acceptance Notification: March 28, 2025
 * Final Paper Submission: April 6, 2025
 
