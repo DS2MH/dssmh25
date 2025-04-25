@@ -61,40 +61,47 @@ This workshop aims to demonstrate the recent progress of data science research, 
 ## Keynote Speakers
 * **Title: Data Mining Electronic Health Records to Combat Healthcare-Associated Infections**
 
+**Speaker:**
+**[Dr. Bijaya Adhikari](https://homepage.divms.uiowa.edu/~badhikari/)**, Assistant Professor, University of Iowa
+
 **Abstract:** 
 As patients admitted to hospitals seek care, they are simultaneously being exposed to several Healthcare-Associated Infections (HAIs), which lead to increased morbidity and mortality and pose significant financial strains. Fortunately, early detection coupled with effective preventative measures can help mitigate both the health and economic risks of future outbreaks. 
 
 The widespread adoption of automated and integrated computing systems in healthcare facilities has led to the availability of fine-grained data, including electronic health records, healthcare provider mobility, clinical notes, and laboratory records. These fine-grained data capture HAI risk and potential pathways of infection, paving the way for data mining and artificial intelligence algorithms to enable effective HAI surveillance and intervention. This talk focuses on recent advances in data-driven algorithms specifically designed to combat HAI.
 
-**Speaker:**
-**[Dr. Bijaya Adhikari](https://homepage.divms.uiowa.edu/~badhikari/)**, Assistant Professor, University of Iowa
 
 
 * **Title: Physics-constrained Modeling and Optimization of Complex Systems: Healthcare Application**
 
+**Speaker:**
+**[Dr. Jianxin Xie](https://sites.google.com/view/homepageofjianxinxie/home)**, Assistant Professor, University of Virginia
+
 **Abstract:** 
 Rapid advances in sensing and imaging techniques have created a data-rich environment and tremendously benefited data-driven predictive modeling and decision-making for complex systems. Realizing the full potential of the sensing and imaging data depends on the development of novel and reliable analytical models and tools for system informatics. The goal of my research is to develop innovative physics-augmented methodologies for modeling, monitoring, and optimizing complex systems. In this talk, I will present two topics to tackle the challenges in complex systems modeling and optimization. In the first topic, a physics-constrained deep learning method is developed to model the spatiotemporal inverse systems. This method integrates physics-based principles with spatiotemporal local support into the advanced deep learning infrastructure to predict the spatiotemporal system dynamics based on indirect and noisy sensor observations. This methodology is implemented in inverse electrocardiography (ECG) modeling, which generates a robust prediction of electrical potential mappings on the heart surface based on body-surface sensor measurements. In the second topic, a novel physics-augmented strategy is proposed for optimal sensor placement to actively explore and model the dynamics of 3D complex-structured systems. This active learning scheme not only combines uncertainty estimation and space-filling design over the complex geometry but also respects the underlying physics-based prior knowledge, enabling effective learning of system dynamics from limited sensor exploration. The framework was implemented to estimate the electrodynamics in both healthy and diseased 3D cardiac systems. The proposed frameworks have profound potential in modeling other spatiotemporal multi-sensor systems.
 
-**Speaker:**
-**[Dr. Jianxin Xie](https://sites.google.com/view/homepageofjianxinxie/home)**, Assistant Professor, University of Virginia
+
 
 
 * **Title: Towards Effective and Efficient Multi-Agent Language Model Systems**
 
+**Speaker:**
+**[Dr. Xuan Wang](https://xuanwang91.github.io/)**, Assistant Professor, Virginia Tech
+
 **Abstract:** 
 Large language models (LLMs) have shown impressive capabilities in reasoning and planning, making them powerful tools for multi-agent collaboration in complex decision-making. However, current multi-agent LLM systems often struggle with inefficiencies and suboptimal effectiveness. In this talk, I will present our recent research addressing these challenges through graph and prompt optimization techniques designed to improve coordination and reasoning in LLM-based multi-agent systems. I will also introduce our recent work on small language model (SLM)-based multi-agent systems, which aim to deliver competitive performance with significantly greater efficiency. Our frameworks are designed to enhance reasoning robustness, reduce sycophancy, and support real-world adaptability, moving toward more effective and efficient multi-agent language model systems for practical applications.
 
-**Speaker:**
-**[Dr. Xuan Wang](https://xuanwang91.github.io/)**, Assistant Professor, Virginia Tech
+
 
 
 * **Title: Unifying and Optimizing Data Values for Selection via Sequential-Decision-Making**
 
+**Speaker:**
+**[Hongliang Chi](https://frankhlchi.github.io/)**, Ph.D. Candidate, Rensselaer Polytechnic Insitute
+
 **Abstract:** 
 Data selection has emerged as a crucial downstream application of data valuation. While existing methods have shown promise, the theoretical foundations of using data values for selection remain largely unexplored. In this talk, I will demonstrate how data values applied for selection can be naturally reformulated as a sequential-decision-making problem where optimal data values are derived through dynamic programming. I'll show how this framework unifies existing methods like Data Shapley through approximate dynamic programming and analyze performance limitations when utility functions exhibit varying degrees of submodularity. Additionally, I'll present an efficient approximation scheme using learned bipartite graphs that ensures near-optimal selection while preserving theoretical guarantees.
 
-**Speaker:**
-**[Hongliang Chi](https://frankhlchi.github.io/)**, Ph.D. Candidate, Rensselaer Polytechnic Insitute
+
 
 
 ## Description of the Workshop: 
