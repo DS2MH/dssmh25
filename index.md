@@ -107,7 +107,7 @@ Data selection has emerged as a crucial downstream application of data valuation
 ## Description of the Workshop: 
 This workshop is expected to be a full-day event with two half-day sessions, split by a lunch break. The format of this workshop will include invited keynote presentations and accepted presentations from submitted papers. The tentative workshop agenda is shown as follows.
 
-## Tentative Workshop Agenda
+## Tentative Workshop Agenda (May 2 at Bell)
 ##### Morning Session
 * 10:00 – 10:05 Welcome and Opening Remarks
 * 10:05 – 10:55 Keynote presentation 1
